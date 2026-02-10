@@ -1,5 +1,5 @@
-## Hi there 👋
-##Je suis Imani Justine, licenciée en Nutrition et Diétetique depuis 2023. Après plusieurs année de recherche d'emploi dans le domaine humanitaire sans succès, j'ai décidé de créer mon propre business. Il s'agit du trichotage des habits de tout genre: robe, tricot, culotte, ...
+# Bienvenue à nos Collections 👋
+## Je suis **Imani Justine**, licenciée en Nutrition et Diétetique depuis 2023. Après plusieurs année de recherche d'emploi dans le domaine humanitaire sans succès, j'ai décidé de créer mon propre business. Il s'agit du trichotage des habits de tout genre: robe, tricot, culotte, ...
 
 Je vous assure vous ne serai pas deçu de mes services. Les prix sont également abordables et défu toute concurrence. 
 
