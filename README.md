@@ -36,7 +36,6 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 ## Echantillions de nos produits
 ![IMG-20260210-WA0145](https://github.com/user-attachments/assets/00da047f-44c1-47ad-9f98-456ede294fb7)
 ![IMG-20260210-WA0144](https://github.com/user-attachments/assets/6e1a393b-b1ec-421b-b1c8-e5f458b17933)
-![IMG-20260210-WA0148](https://github.com/user-attachments/assets/88a10573-5e2c-4600-a5f5-978e6293750e)
 ![IMG-20260212-WA0000](https://github.com/user-attachments/assets/10caa495-68ef-457a-9d3d-df15cc2c7690)
 ![IMG-20260210-WA0137](https://github.com/user-attachments/assets/459e3fea-c3bf-499f-9740-416880b4c2e7)
 
@@ -57,13 +56,15 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et investisseurs qui croient en la valeur de l’innovation locale et souhaitent soutenir une entrepreneure motivée, créative et compétente. 
 
-Passer vos commandes sur 
+Passer vos commandes par :
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243894545699)  
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justine.imani.yv@gmail.com)
 
 ---
 <p align="center">
-  <i>"Bâtir une marque de référence dans le tricotage artisanal, tout en poursuivant mes engagements dans le domaine de la nutrition et du bien-être communautaire."</i>
+  <i>Bâtir une marque de référence dans le tricotage artisanal, tout en poursuivant mes engagements dans le domaine de la nutrition et du bien-être communautaire.</i>
 </p>
 
 
