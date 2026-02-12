@@ -54,7 +54,9 @@ Mon ambition est de bâtir une marque de référence dans le tricotage artisanal
 
 ## 🔗 Connect with me
 
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243894545699)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justine.imani.yv@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justine.imani.yv@gmail.com)
 ---
 <p align="center">
   <i>"Turning data into actionable insights, one project at a time."</i>
