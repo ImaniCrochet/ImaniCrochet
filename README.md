@@ -1,5 +1,6 @@
 # Bienvenue à nos Collections! 👋
 
+### IMANI ORHACIYUMYA Justine
 ### Nutristioniste| Dietetiste |Entrepreneure |  
 ---
 
@@ -30,11 +31,6 @@ Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et i
 Mon ambition est de bâtir une marque de référence dans le tricotage artisanal, tout en poursuivant mes engagements dans le domaine de la nutrition et du bien-être communautaire.
 
 ---
-![IMG-20260210-WA0148](https://github.com/user-attachments/assets/88a10573-5e2c-4600-a5f5-978e6293750e)
-![IMG-20260210-WA0137](https://github.com/user-attachments/assets/459e3fea-c3bf-499f-9740-416880b4c2e7)
-![IMG-20260210-WA0145](https://github.com/user-attachments/assets/00da047f-44c1-47ad-9f98-456ede294fb7)
-![IMG-20260210-WA0144](https://github.com/user-attachments/assets/6e1a393b-b1ec-421b-b1c8-e5f458b17933)
-![IMG-20260212-WA0000](https://github.com/user-attachments/assets/10caa495-68ef-457a-9d3d-df15cc2c7690)
 
 ## Outils de travail et livrables
 
@@ -49,6 +45,11 @@ Mon ambition est de bâtir une marque de référence dans le tricotage artisanal
 
 ---
 ## Echantillions de nos produits
+![IMG-20260210-WA0148](https://github.com/user-attachments/assets/88a10573-5e2c-4600-a5f5-978e6293750e)
+![IMG-20260210-WA0145](https://github.com/user-attachments/assets/00da047f-44c1-47ad-9f98-456ede294fb7)
+![IMG-20260210-WA0137](https://github.com/user-attachments/assets/459e3fea-c3bf-499f-9740-416880b4c2e7)
+![IMG-20260210-WA0144](https://github.com/user-attachments/assets/6e1a393b-b1ec-421b-b1c8-e5f458b17933)
+![IMG-20260212-WA0000](https://github.com/user-attachments/assets/10caa495-68ef-457a-9d3d-df15cc2c7690)
 
 
 
