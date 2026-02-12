@@ -19,6 +19,7 @@ Ce projet est né de ma passion et de ma volonté de répondre au défi du chôm
 Mon objectif est simple : transformer la tradition du tricotage en une mode moderne et durable, qui valorise l’art local tout en offrant aux clients des produits de qualité, confortables et personnalisés.
 
 🔑 Ce qui me distingue :
+
 •	Des créations artisanales originales, adaptées aux goûts et besoins des clients.
 
 •	Une vision orientée vers la qualité, l’authenticité et la satisfaction client, avec un sens aigu du détail et de la créativité.
