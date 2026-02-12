@@ -1,6 +1,6 @@
 # Bienvenue à nos Collections! 👋
 
-### Nutristioniste| Dietetiste |Entrepreneuse |  
+### Nutristioniste| Dietetiste |Entrepreneure |  
 ---
 
 "Explorez mon univers de créativité et de résilience ! Animée par la passion, je transforme le fil en pièces de mode artisanales élégantes — robes, jupes, chapeaux et tricots uniques qui célèbrent l’authenticité et le style. 🌟
@@ -18,7 +18,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 •	Une vision orientée vers la qualité, l’authenticité et la satisfaction client, avec un sens aigu du détail et de la créativité.
 
-•	Une combinaison rare de rigueur professionnelle (nutritionniste formée) et de créativité entrepreneuriale.
+•	Une combinaison rare de rigueur professionnelle  et de créativité entrepreneuriale.
 
 •	Une vision orientée vers l’impact social, en luttant contre le chômage par l’innovation et l’artisanat.
 
@@ -30,6 +30,11 @@ Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et i
 Mon ambition est de bâtir une marque de référence dans le tricotage artisanal, tout en poursuivant mes engagements dans le domaine de la nutrition et du bien-être communautaire.
 
 ---
+![IMG-20260210-WA0148](https://github.com/user-attachments/assets/88a10573-5e2c-4600-a5f5-978e6293750e)
+![IMG-20260210-WA0137](https://github.com/user-attachments/assets/459e3fea-c3bf-499f-9740-416880b4c2e7)
+![IMG-20260210-WA0145](https://github.com/user-attachments/assets/00da047f-44c1-47ad-9f98-456ede294fb7)
+![IMG-20260210-WA0144](https://github.com/user-attachments/assets/6e1a393b-b1ec-421b-b1c8-e5f458b17933)
+![IMG-20260212-WA0000](https://github.com/user-attachments/assets/10caa495-68ef-457a-9d3d-df15cc2c7690)
 
 ## Outils de travail et livrables
 
@@ -43,11 +48,12 @@ Mon ambition est de bâtir une marque de référence dans le tricotage artisanal
 | **Valeurs**             | ![Authenticité](https://img.shields.io/badge/Authenticité-%23006400.svg?style=flat&logoColor=white) ![Créativité](https://img.shields.io/badge/Créativité-%23FF1493.svg?style=flat&logoColor=white) ![Durabilité](https://img.shields.io/badge/Durabilité-%23008000.svg?style=flat&logoColor=white) |
 
 ---
+## Echantillions de nos produits
+
+
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koko-mukuru-yves-98621a14a) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokomukuruy@gmail.com)
 
 ---
 <p align="center">
