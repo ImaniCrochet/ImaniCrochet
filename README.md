@@ -8,8 +8,11 @@
 🌌 **A propos de moi**
 
 Je suis Imani Justine, nutritionniste formée et entrepreneure créative, fondatrice d’une activité artisanale spécialisée dans le tricotage de vêtements et accessoires uniques. Jupes élégantes, robes raffinées, chapeaux stylés et tricots originaux : chaque pièce que je réalise est faite à la main avec passion, soin, confort et authenticité.
+
 Ce projet est né de ma passion et de ma volonté de répondre au défi du chômage, en transformant mon savoir-faire en une source de revenus et d’impact social. Chaque pièce que je crée raconte une histoire de résilience et d’innovation, destinée à des clients qui recherchent des produits faits main, élégants et durables.
+
 Mon objectif est simple : transformer la tradition du tricotage en une mode moderne et durable, qui valorise l’art local tout en offrant aux clients des produits de qualité, confortables et personnalisés.
+
 🔑 Ce qui me distingue :
 •	Des créations artisanales originales, adaptées aux goûts et besoins des clients.
 
@@ -23,6 +26,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 
 Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et investisseurs qui croient en la valeur de l’innovation locale et souhaitent soutenir une entrepreneure motivée, créative et compétente. 
+
 Mon ambition est de bâtir une marque de référence dans le tricotage artisanal, tout en poursuivant mes engagements dans le domaine de la nutrition et du bien-être communautaire.
 
 ---
@@ -34,9 +38,9 @@ Mon ambition est de bâtir une marque de référence dans le tricotage artisanal
 
 | **Outils de tricotage** | ![Crochet](https://img.shields.io/badge/Crochet-%23FF69B4.svg?style=flat&logoColor=white) ![Aiguilles](https://img.shields.io/badge/Aiguilles-%23008080.svg?style=flat&logoColor=white) ![Pelotes](https://img.shields.io/badge/Pelotes-%23FFD700.svg?style=flat&logoColor=black) |
 
-| **Créations** | ![Robes](https://img.shields.io/badge/Robes-%23FF4500.svg?style=flat&logoColor=white) ![Jupes](https://img.shields.io/badge/Jupes-%23DC143C.svg?style=flat&logoColor=white) ![Chapeaux](https://img.shields.io/badge/Chapeaux-%234B0082.svg?style=flat&logoColor=white) ![Accessoires](https://img.shields.io/badge/Accessoires-%2300CED1.svg?style=flat&logoColor=white) |
+| **Créations**           | ![Robes](https://img.shields.io/badge/Robes-%23FF4500.svg?style=flat&logoColor=white) ![Jupes](https://img.shields.io/badge/Jupes-%23DC143C.svg?style=flat&logoColor=white) ![Chapeaux](https://img.shields.io/badge/Chapeaux-%234B0082.svg?style=flat&logoColor=white) ![Accessoires](https://img.shields.io/badge/Accessoires-%2300CED1.svg?style=flat&logoColor=white) |
 
-| **Valeurs** | ![Authenticité](https://img.shields.io/badge/Authenticité-%23006400.svg?style=flat&logoColor=white) ![Créativité](https://img.shields.io/badge/Créativité-%23FF1493.svg?style=flat&logoColor=white) ![Durabilité](https://img.shields.io/badge/Durabilité-%23008000.svg?style=flat&logoColor=white) |
+| **Valeurs**             | ![Authenticité](https://img.shields.io/badge/Authenticité-%23006400.svg?style=flat&logoColor=white) ![Créativité](https://img.shields.io/badge/Créativité-%23FF1493.svg?style=flat&logoColor=white) ![Durabilité](https://img.shields.io/badge/Durabilité-%23008000.svg?style=flat&logoColor=white) |
 
 ---
 
