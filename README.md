@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="reduce the dimension" src="https://github.com/user-attachments/assets/f0fe72c5-ccc4-48c1-9ff6-a53609479705" />
+<img width="412" height="268" alt="image" src="https://github.com/user-attachments/assets/1a2bbbd5-3e36-4d71-b22e-a974645ff9f5" />
 
 
 # Bienvenue à nos Collections! 👋
