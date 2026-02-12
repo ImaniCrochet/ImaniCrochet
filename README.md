@@ -1,5 +1,5 @@
+<img width="1024" height="1024" alt="reduce the dimension" src="https://github.com/user-attachments/assets/f0fe72c5-ccc4-48c1-9ff6-a53609479705" />
 
-<img width="1024" height="1024" alt="Logo artisanal et mo" src="https://github.com/user-attachments/assets/6958d2d9-d899-4445-83b6-48895158ba3b" />
 
 # Bienvenue à nos Collections! 👋
 
