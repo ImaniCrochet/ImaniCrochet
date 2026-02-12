@@ -1,4 +1,5 @@
-<img width="412" height="268" alt="image" src="https://github.com/user-attachments/assets/1a2bbbd5-3e36-4d71-b22e-a974645ff9f5" />
+<img width="342" height="252" alt="image" src="https://github.com/user-attachments/assets/adbf0a28-8206-4f3c-bb84-30125d44fb98" />
+
 
 
 # Bienvenue à nos Collections! 👋
@@ -67,6 +68,7 @@ Passer vos commandes par :
   <i>Bâtir une marque de référence dans le tricotage artisanal, tout en poursuivant mes engagements dans le domaine de la nutrition et du bien-être communautaire.</i>
 </p>
 
+© **2026 IMANI ORHACIYUMYA Justine.** All rights reserved 
 
 
 
