@@ -26,7 +26,10 @@ Mon ambition est de bâtir une marque de référence dans le tricotage artisanal
 | Category | Tools & Technologies |
 | :--- | :--- |
 
-| **Matières premières** | ![Laine](https://img.shields.io
+| **Matières premières** | ![Laine](https://img.shields.io/badge/Laine-%23D2B48C.svg?style=flat&logoColor=white) ![Coton](https://img.shields.io/badge/Coton-%23F5F5DC.svg?style=flat&logoColor=black) ![Fibres naturelles](https://img.shields.io/badge/Fibres%20naturelles-%238B4513.svg?style=flat&logoColor=white) |
+| **Outils de tricotage** | ![Crochet](https://img.shields.io/badge/Crochet-%23FF69B4.svg?style=flat&logoColor=white) ![Aiguilles](https://img.shields.io/badge/Aiguilles-%23008080.svg?style=flat&logoColor=white) ![Pelotes](https://img.shields.io/badge/Pelotes-%23FFD700.svg?style=flat&logoColor=black) |
+| **Créations** | ![Robes](https://img.shields.io/badge/Robes-%23FF4500.svg?style=flat&logoColor=white) ![Jupes](https://img.shields.io/badge/Jupes-%23DC143C.svg?style=flat&logoColor=white) ![Chapeaux](https://img.shields.io/badge/Chapeaux-%234B0082.svg?style=flat&logoColor=white) ![Accessoires](https://img.shields.io/badge/Accessoires-%2300CED1.svg?style=flat&logoColor=white) |
+| **Valeurs** | ![Authenticité](https://img.shields.io/badge/Authenticité-%23006400.svg?style=flat&logoColor=white) ![Créativité](https://img.shields.io/badge/Créativité-%23FF1493.svg?style=flat&logoColor=white) ![Durabilité](https://img.shields.io/badge/Durabilité-%23008000.svg?style=flat&logoColor=white) |
 
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) |
 | **ML / AI** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow) |
