@@ -12,19 +12,23 @@ Ce projet est né de ma passion et de ma volonté de répondre au défi du chôm
 Mon objectif est simple : transformer la tradition du tricotage en une mode moderne et durable, qui valorise l’art local tout en offrant aux clients des produits de qualité, confortables et personnalisés.
 🔑 Ce qui me distingue :
 •	Des créations artisanales originales, adaptées aux goûts et besoins des clients.
+
 •	Une vision orientée vers la qualité, l’authenticité et la satisfaction client, avec un sens aigu du détail et de la créativité.
+
 •	Une combinaison rare de rigueur professionnelle (nutritionniste formée) et de créativité entrepreneuriale.
+
 •	Une vision orientée vers l’impact social, en luttant contre le chômage par l’innovation et l’artisanat.
+
 •	Une capacité à transformer les défis en opportunités, en bâtissant un projet entrepreneurial à partir de ma passion.
+
+
 Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et investisseurs qui croient en la valeur de l’innovation locale et souhaitent soutenir une entrepreneure motivée, créative et compétente. 
 Mon ambition est de bâtir une marque de référence dans le tricotage artisanal, tout en poursuivant mes engagements dans le domaine de la nutrition et du bien-être communautaire.
 
 ---
 
-## 🛠 Tech Stack
+##
 
-| Category | Tools & Technologies |
-| :--- | :--- |
 
 | **Matières premières** | ![Laine](https://img.shields.io/badge/Laine-%23D2B48C.svg?style=flat&logoColor=white) ![Coton](https://img.shields.io/badge/Coton-%23F5F5DC.svg?style=flat&logoColor=black) ![Fibres naturelles](https://img.shields.io/badge/Fibres%20naturelles-%238B4513.svg?style=flat&logoColor=white) |
 | **Outils de tricotage** | ![Crochet](https://img.shields.io/badge/Crochet-%23FF69B4.svg?style=flat&logoColor=white) ![Aiguilles](https://img.shields.io/badge/Aiguilles-%23008080.svg?style=flat&logoColor=white) ![Pelotes](https://img.shields.io/badge/Pelotes-%23FFD700.svg?style=flat&logoColor=black) |
