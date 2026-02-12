@@ -31,10 +31,6 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 •	Une capacité à transformer les défis en opportunités, en bâtissant un projet entrepreneurial à partir de ma passion.
 
 
-Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et investisseurs qui croient en la valeur de l’innovation locale et souhaitent soutenir une entrepreneure motivée, créative et compétente. 
-
-Mon ambition est de bâtir une marque de référence dans le tricotage artisanal, tout en poursuivant mes engagements dans le domaine de la nutrition et du bien-être communautaire.
-
 ---
 
 ## Echantillions de nos produits
@@ -57,14 +53,17 @@ Mon ambition est de bâtir une marque de référence dans le tricotage artisanal
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Contacts
 
+Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et investisseurs qui croient en la valeur de l’innovation locale et souhaitent soutenir une entrepreneure motivée, créative et compétente. 
+
+Passer vos commandes sur 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243894545699)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justine.imani.yv@gmail.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justine.imani.yv@gmail.com)
+
 ---
 <p align="center">
-  <i>"Turning data into actionable insights, one project at a time."</i>
+  <i>"Bâtir une marque de référence dans le tricotage artisanal, tout en poursuivant mes engagements dans le domaine de la nutrition et du bien-être communautaire."</i>
 </p>
 
 
