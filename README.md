@@ -1,3 +1,6 @@
+
+<img width="1024" height="1024" alt="Logo artisanal et mo" src="https://github.com/user-attachments/assets/6958d2d9-d899-4445-83b6-48895158ba3b" />
+
 # Bienvenue à nos Collections! 👋
 
 ### IMANI ORHACIYUMYA Justine
@@ -33,6 +36,13 @@ Mon ambition est de bâtir une marque de référence dans le tricotage artisanal
 
 ---
 
+## Echantillions de nos produits
+![IMG-20260210-WA0145](https://github.com/user-attachments/assets/00da047f-44c1-47ad-9f98-456ede294fb7)
+![IMG-20260210-WA0144](https://github.com/user-attachments/assets/6e1a393b-b1ec-421b-b1c8-e5f458b17933)
+![IMG-20260210-WA0148](https://github.com/user-attachments/assets/88a10573-5e2c-4600-a5f5-978e6293750e)
+![IMG-20260212-WA0000](https://github.com/user-attachments/assets/10caa495-68ef-457a-9d3d-df15cc2c7690)
+![IMG-20260210-WA0137](https://github.com/user-attachments/assets/459e3fea-c3bf-499f-9740-416880b4c2e7)
+
 ## Outils de travail et livrables
 
 
@@ -45,14 +55,6 @@ Mon ambition est de bâtir une marque de référence dans le tricotage artisanal
 | **Valeurs**             | ![Authenticité](https://img.shields.io/badge/Authenticité-%23006400.svg?style=flat&logoColor=white) ![Créativité](https://img.shields.io/badge/Créativité-%23FF1493.svg?style=flat&logoColor=white) ![Durabilité](https://img.shields.io/badge/Durabilité-%23008000.svg?style=flat&logoColor=white) |
 
 ---
-## Echantillions de nos produits
-![IMG-20260210-WA0148](https://github.com/user-attachments/assets/88a10573-5e2c-4600-a5f5-978e6293750e)
-![IMG-20260210-WA0145](https://github.com/user-attachments/assets/00da047f-44c1-47ad-9f98-456ede294fb7)
-![IMG-20260210-WA0137](https://github.com/user-attachments/assets/459e3fea-c3bf-499f-9740-416880b4c2e7)
-![IMG-20260210-WA0144](https://github.com/user-attachments/assets/6e1a393b-b1ec-421b-b1c8-e5f458b17933)
-![IMG-20260212-WA0000](https://github.com/user-attachments/assets/10caa495-68ef-457a-9d3d-df15cc2c7690)
-
-
 
 ## 🔗 Connect with me
 
