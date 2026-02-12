@@ -27,12 +27,10 @@ Mon ambition est de bâtir une marque de référence dans le tricotage artisanal
 
 ---
 
-##
+## Outils de travail et livrables
 
 
-| **Matières premières** |
-
-![Laine](https://img.shields.io/badge/Laine-%23D2B48C.svg?style=flat&logoColor=white) ![Coton](https://img.shields.io/badge/Coton-%23F5F5DC.svg?style=flat&logoColor=black) ![Fibres naturelles](https://img.shields.io/badge/Fibres%20naturelles-%238B4513.svg?style=flat&logoColor=white) |
+| **Matières premières** |![Laine](https://img.shields.io/badge/Laine-%23D2B48C.svg?style=flat&logoColor=white) ![Coton](https://img.shields.io/badge/Coton-%23F5F5DC.svg?style=flat&logoColor=black) ![Fibres naturelles](https://img.shields.io/badge/Fibres%20naturelles-%238B4513.svg?style=flat&logoColor=white) |
 
 | **Outils de tricotage** | ![Crochet](https://img.shields.io/badge/Crochet-%23FF69B4.svg?style=flat&logoColor=white) ![Aiguilles](https://img.shields.io/badge/Aiguilles-%23008080.svg?style=flat&logoColor=white) ![Pelotes](https://img.shields.io/badge/Pelotes-%23FFD700.svg?style=flat&logoColor=black) |
 
