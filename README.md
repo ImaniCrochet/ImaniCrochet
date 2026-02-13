@@ -37,8 +37,9 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 •	Une capacité à transformer les défis en opportunités, en bâtissant un projet entrepreneurial à partir de ma passion.
 
-</details>
 ---
+</details>
+
 
 ## Echantillions de nos produits
 
