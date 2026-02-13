@@ -6,16 +6,18 @@
 
 ### IMANI ORHACIYUMYA Justine
 
-### Nutristioniste| Dietetiste |Entrepreneure |  
+### Nutristioniste| Dieteticienne  |Entrepreneure |  
 ---
 
-"Explorez mon univers de créativité et de résilience ! Animée par la passion, je transforme le fil en pièces de mode artisanales élégantes — robes, jupes, chapeaux et tricots uniques qui célèbrent l’authenticité et le style. 🌟
+Explorez mon univers de créativité et de résilience !
+
+Animée par la passion, je transforme le fil en pièces de mode artisanales élégantes — robes, jupes, chapeaux et tricots uniques qui célèbrent l’authenticité et le style. 🌟
 
 🌌 **A propos de moi**
 
 Je suis Imani Justine, nutritionniste formée et entrepreneure créative, fondatrice d’une activité artisanale spécialisée dans le tricotage de vêtements et accessoires uniques. Jupes élégantes, robes raffinées, chapeaux stylés et tricots originaux : chaque pièce que je réalise est faite à la main avec passion, soin, confort et authenticité.
 
-Ce projet est né de ma passion et de ma volonté de répondre au défi du chômage, en transformant mon savoir-faire en une source de revenus et d’impact social. Chaque pièce que je crée raconte une histoire de résilience et d’innovation, destinée à des clients qui recherchent des produits faits main, élégants et durables.
+Ce projet est né de ma passion et de ma volonté de répondre au défi du chômage, en transformant mon savoir-faire en une source de revenus et d’impact social. 
 
 Mon objectif est simple : transformer la tradition du tricotage en une mode moderne et durable, qui valorise l’art local tout en offrant aux clients des produits de qualité, confortables et personnalisés.
 
