@@ -51,7 +51,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 ---
 
 <details>
-   <summary id="Tools">📌 **Outils de travail et livrables**</summary>
+   <summary id="Tools"> Outils de travail et livrables </summary>
 
 | **Matières premières** |![Laine](https://img.shields.io/badge/Laine-%23D2B48C.svg?style=flat&logoColor=white) ![Coton](https://img.shields.io/badge/Coton-%23F5F5DC.svg?style=flat&logoColor=black) ![Fibres naturelles](https://img.shields.io/badge/Fibres%20naturelles-%238B4513.svg?style=flat&logoColor=white) |
 
@@ -64,7 +64,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 ---
 <\details>
 
-   
+<details>   
 ## 🔗 Contacts
 
 Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et investisseurs qui croient en la valeur de l’innovation locale et souhaitent soutenir une entrepreneure motivée, créative et compétente. 
