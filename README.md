@@ -42,7 +42,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 </details>
 
 </details>
-  <summary>## Echantillions de nos produits</summary>
+  <summary>Echantillions de nos produits</summary>
 
 ![IMG-20260210-WA0145](https://github.com/user-attachments/assets/00da047f-44c1-47ad-9f98-456ede294fb7)
 ![IMG-20260210-WA0144](https://github.com/user-attachments/assets/6e1a393b-b1ec-421b-b1c8-e5f458b17933)
@@ -52,7 +52,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 </details>
 
 </details>
-  <summary>## Outils de travail et livrables</summary>
+  <summary>Outils de travail et livrables</summary>
 
 
 | **Matières premières** |![Laine](https://img.shields.io/badge/Laine-%23D2B48C.svg?style=flat&logoColor=white) ![Coton](https://img.shields.io/badge/Coton-%23F5F5DC.svg?style=flat&logoColor=black) ![Fibres naturelles](https://img.shields.io/badge/Fibres%20naturelles-%238B4513.svg?style=flat&logoColor=white) |
