@@ -49,6 +49,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 ![IMG-20260210-WA0137](https://github.com/user-attachments/assets/459e3fea-c3bf-499f-9740-416880b4c2e7)
 
 ---
+</details>
 
 <details>
    <summary id="Tools"> Outils de travail et livrables </summary>
@@ -61,10 +62,10 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 | **Valeurs**             | ![Authenticité](https://img.shields.io/badge/Authenticité-%23006400.svg?style=flat&logoColor=white) ![Créativité](https://img.shields.io/badge/Créativité-%23FF1493.svg?style=flat&logoColor=white) ![Durabilité](https://img.shields.io/badge/Durabilité-%23008000.svg?style=flat&logoColor=white) |
 
-
-<\details>
+</details>
 ---
 <details>   
+   
 ## 🔗 Contacts
 
 Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et investisseurs qui croient en la valeur de l’innovation locale et souhaitent soutenir une entrepreneure motivée, créative et compétente. 
@@ -81,10 +82,6 @@ Passer vos commandes par :
 </p>
 
 © **2026 IMANI ORHACIYUMYA Justine.** All rights reserved 
-
-
-
-
 
 
 
