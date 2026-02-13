@@ -17,7 +17,7 @@ Animée par la passion, je transforme le fil en pièces de mode artisanales él�
 
 <details>
 
-   <summary id="Avant propos">📌 **A propos de moi**</summary>
+   <summary id="Avant propos">A propos de moi</summary>
 
 Je suis Imani Justine, nutritionniste formée et entrepreneure créative, fondatrice d’une activité artisanale spécialisée dans le tricotage de vêtements et accessoires uniques. Jupes élégantes, robes raffinées, chapeaux stylés et tricots originaux : chaque pièce que je réalise est faite à la main avec passion, soin, confort et authenticité.
 
@@ -37,13 +37,10 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 •	Une capacité à transformer les défis en opportunités, en bâtissant un projet entrepreneurial à partir de ma passion.
 
+</details>
 ---
 
-</details>
-
-<details>
-
-   <summary id="Samples">📌 **Echantillions de nos produits**</summary>
+## Echantillions de nos produits
 
 ![IMG-20260210-WA0145](https://github.com/user-attachments/assets/00da047f-44c1-47ad-9f98-456ede294fb7)
 ![IMG-20260210-WA0144](https://github.com/user-attachments/assets/6e1a393b-b1ec-421b-b1c8-e5f458b17933)
@@ -51,7 +48,6 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 ![IMG-20260210-WA0137](https://github.com/user-attachments/assets/459e3fea-c3bf-499f-9740-416880b4c2e7)
 
 ---
-</details>
 
 <details>
    <summary id="Tools">📌 **Outils de travail et livrables**</summary>
@@ -64,12 +60,9 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 | **Valeurs**             | ![Authenticité](https://img.shields.io/badge/Authenticité-%23006400.svg?style=flat&logoColor=white) ![Créativité](https://img.shields.io/badge/Créativité-%23FF1493.svg?style=flat&logoColor=white) ![Durabilité](https://img.shields.io/badge/Durabilité-%23008000.svg?style=flat&logoColor=white) |
 
+---
 <details>
    
----
-
-
-
 ## 🔗 Contacts
 
 Je suis aujourd’hui prête à collaborer avec des partenaires, recruteurs et investisseurs qui croient en la valeur de l’innovation locale et souhaitent soutenir une entrepreneure motivée, créative et compétente. 
