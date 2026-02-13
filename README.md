@@ -6,7 +6,7 @@
 
 ### IMANI ORHACIYUMYA Justine
 
-### Nutristioniste| Dieteticienne  |Entrepreneure |  
+### Nutristioniste| Diététicienne  |Entrepreneuse |  
 ---
 
 Explorez mon univers de créativité et de résilience !
