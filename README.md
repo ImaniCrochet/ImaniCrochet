@@ -40,7 +40,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 </details>
 ---
 
-</details>
+<details>
   <summary>Echantillions de nos produits</summary>
 
 ![IMG-20260210-WA0145](https://github.com/user-attachments/assets/00da047f-44c1-47ad-9f98-456ede294fb7)
@@ -51,7 +51,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 </details>
 
 ---
-</details>
+<details>
   <summary>Outils de travail et livrables</summary>
 
 
@@ -65,7 +65,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 ---
 
-</details>
+<details>
 
 ## 🔗 Contacts
 
