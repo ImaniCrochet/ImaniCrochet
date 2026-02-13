@@ -37,9 +37,8 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 •	Une capacité à transformer les défis en opportunités, en bâtissant un projet entrepreneurial à partir de ma passion.
 
-
----
 </details>
+---
 
 </details>
   <summary>Echantillions de nos produits</summary>
@@ -51,6 +50,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 </details>
 
+---
 </details>
   <summary>Outils de travail et livrables</summary>
 
@@ -64,6 +64,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 | **Valeurs**             | ![Authenticité](https://img.shields.io/badge/Authenticité-%23006400.svg?style=flat&logoColor=white) ![Créativité](https://img.shields.io/badge/Créativité-%23FF1493.svg?style=flat&logoColor=white) ![Durabilité](https://img.shields.io/badge/Durabilité-%23008000.svg?style=flat&logoColor=white) |
 
 ---
+
 </details>
 
 ## 🔗 Contacts
