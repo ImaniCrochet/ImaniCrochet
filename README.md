@@ -16,8 +16,8 @@ Animée par la passion, je transforme le fil en pièces de mode artisanales él�
 ---
 
 <details>
-  <summary>🌌 **A propos de moi**</summary>
 
+   <summary id="Avant propos">📌 **A propos de moi**</summary>
 
 Je suis Imani Justine, nutritionniste formée et entrepreneure créative, fondatrice d’une activité artisanale spécialisée dans le tricotage de vêtements et accessoires uniques. Jupes élégantes, robes raffinées, chapeaux stylés et tricots originaux : chaque pièce que je réalise est faite à la main avec passion, soin, confort et authenticité.
 
