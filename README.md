@@ -63,6 +63,7 @@ Mon objectif est simple : transformer la tradition du tricotage en une mode mode
 
 ---
 <\details>
+
    
 ## 🔗 Contacts
 
