@@ -4,9 +4,6 @@
 
 # Bienvenue à nos Collections! 👋
 
-### IMANI ORHACIYUMYA Justine
-
-### Nutristioniste| Diététicienne  |Entrepreneuse |  
 ---
 
 Explorez mon univers de créativité et de résilience !
